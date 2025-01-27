@@ -1,5 +1,7 @@
 # Hotend_Flowrate_Chart
  
+![Screenshot](https://github.com/B20bob/Hotend_Flowrate_Chart/blob/master/Screenshot%202025-01-26%20231038.png "Image Description")
+
 This project is indended as a way to sort of crowdsource hotend flowrate data. Of course everyones setup is different, and may not achieve exactly the same flowrates. Along with that, the testing method is somewhat subjective, but I think we could get a decent idea of flowrates with enough data.
 
 I use LibreOffice Calc, so the file is saved in it's native .ods format. I think you should be able to import this into Excel or Sheets, but LibreOffice is free and open source, so.
